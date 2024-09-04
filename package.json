@@ -1,0 +1,19 @@
+{
+  "name": "umagwan_currency-converter",
+  "version": "1.0.3",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umair Mujeeb",
+  "license": "MIT",
+  "description": "this is currency converter using typescript, inquirer and nodejs",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
